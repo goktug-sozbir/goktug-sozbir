@@ -6,7 +6,7 @@
 - 💬 Ask me about my project
 - 📫 How to reach me: goktug.szbr@hotmail.com - goktug.szbr@gmail.com
 
- ###Connect wtih me:
+`Connect wtih me:`
  
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](https://github.com/goktug-sozbir/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/goktug.szbr/) 
